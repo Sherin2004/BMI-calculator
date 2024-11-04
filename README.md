@@ -2,18 +2,12 @@ BMI calculator
 
 The formula to calculate Body Mass Index (BMI) is:
 
-BMI
-=
-weight in kilograms
+BMI =
+weight in kilograms/
 (
 height in meters
 )
 2
-BMI= 
-(height in meters) 
-2
- 
-weight in kilograms
 ​
 BMI Categories:
 Underweight: BMI < 18.5
