@@ -8,6 +8,7 @@ weight in kilograms/
 height in meters
 )
 2
+
 ​
 BMI Categories:
 Underweight: BMI < 18.5
